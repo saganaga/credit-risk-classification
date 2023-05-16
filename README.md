@@ -14,12 +14,12 @@ Evaluate the model’s performance by doing the following:
 - [x] Generate a confusion matrix.
 - [x] Generate a classification report.
 - [x] Answer the following question: How well does the logistic regression model predict both the 0 (healthy loan) and 1 (high-risk loan) labels?
-### Write a Credit Risk Analysis Report
-- [ ] Place imports at the top of the file, just after any module comments and docstrings and before module globals and constants.
-- [ ] Name functions and variables with lowercase characters, with words separated by underscores.
-- [ ] Follow DRY (Don’t Repeat Yourself) principles, creating maintainable and reusable code.
-- [ ] Use concise logic and creative engineering where possible.
+### Coding Conventions and Formatting
+- [x] Place imports at the top of the file, just after any module comments and docstrings and before module globals and constants.
+- [x] Name functions and variables with lowercase characters, with words separated by underscores.
+- [x] Follow DRY (Don’t Repeat Yourself) principles, creating maintainable and reusable code.
+- [x] Use concise logic and creative engineering where possible.
 ### Code Comments
-- [ ] Be well commented with concise, relevant notes that other developers can understand.
+- [x] Be well commented with concise, relevant notes that other developers can understand.
 ## Results
 For results see the credit_risk_classification.ipynb file.
